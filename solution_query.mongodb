@@ -6,32 +6,32 @@ db.employees.insertMany([
   {
     name: "Aryan",
     department: "IT",
-    salary: 600000,
-    age: 24
+    salary: 100000,
+    age: 25
   },
   {
     name: "Denis",
-    department: "UX",
-    salary: 16000,
-    age: 20
+    department: "HR",
+    salary: 50000,
+    age: 24
+  },
+  {
+    name: "Rutvi",
+    department: "Sales",
+    salary: 45000,
+    age: 25
+  },
+  {
+    name: "Manav",
+    department: "Marketing",
+    salary: 5000,
+    age: 30
   },
   {
     name: "Rahul",
-    department: "Sales",
-    salary: 22000,
-    age: 50
-  },
-  {
-    name: "kapil",
     department: "Marketing",
-    salary: 15000,
-    age: 36
-  },
-  {
-    name: "Rajesh",
-    department: "Marketing",
-    salary: 5000,
-    age: 23
+    salary: 35000,
+    age: 33
   }
 ]);
 
